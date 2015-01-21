@@ -12,7 +12,7 @@ namespace abstrcatclassadvance
 
             fulltimeclass fte = new fulltimeclass() {
                   firstname="ashvani rana",
-                  lastname= "pundir",
+                  lastname= "pundir thakur",
                   annualsalary=3200
                  
             };
