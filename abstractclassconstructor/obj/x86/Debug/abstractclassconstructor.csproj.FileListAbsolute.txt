@@ -1,0 +1,9 @@
+D:\visualstudioprogram\awarebase directory\arrayadvance\abstractclassconstructor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\visualstudioprogram\awarebase directory\arrayadvance\abstractclassconstructor\bin\Debug\abstractclassconstructor.exe
+D:\visualstudioprogram\awarebase directory\arrayadvance\abstractclassconstructor\bin\Debug\abstractclassconstructor.pdb
+D:\visualstudioprogram\awarebase directory\arrayadvance\abstractclassconstructor\obj\x86\Debug\abstractclassconstructor.exe
+D:\visualstudioprogram\awarebase directory\arrayadvance\abstractclassconstructor\obj\x86\Debug\abstractclassconstructor.pdb
+C:\Users\sony-vaio\myproject\arrayadvance\abstractclassconstructor\obj\x86\Debug\abstractclassconstructor.exe
+C:\Users\sony-vaio\myproject\arrayadvance\abstractclassconstructor\obj\x86\Debug\abstractclassconstructor.pdb
+D:\arrayadvance\abstractclassconstructor\obj\x86\Debug\abstractclassconstructor.exe
+D:\arrayadvance\abstractclassconstructor\obj\x86\Debug\abstractclassconstructor.pdb
