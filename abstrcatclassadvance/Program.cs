@@ -11,7 +11,7 @@ namespace abstrcatclassadvance
         {  
 
             fulltimeclass fte = new fulltimeclass() {
-                  firstname="ashvani",
+                  firstname="ashvani rana",
                   lastname= "pundir",
                   annualsalary=3200
                  
