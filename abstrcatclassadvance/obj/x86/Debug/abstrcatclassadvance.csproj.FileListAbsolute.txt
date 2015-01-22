@@ -3,3 +3,8 @@ D:\visualstudioprogram\awarebase directory\arrayadvance\abstrcatclassadvance\bin
 D:\visualstudioprogram\awarebase directory\arrayadvance\abstrcatclassadvance\obj\x86\Debug\ResolveAssemblyReference.cache
 D:\visualstudioprogram\awarebase directory\arrayadvance\abstrcatclassadvance\obj\x86\Debug\abstrcatclassadvance.exe
 D:\visualstudioprogram\awarebase directory\arrayadvance\abstrcatclassadvance\obj\x86\Debug\abstrcatclassadvance.pdb
+D:\AllProject\githubproject\abstrcatclassadvance\bin\Debug\abstrcatclassadvance.exe
+D:\AllProject\githubproject\abstrcatclassadvance\bin\Debug\abstrcatclassadvance.pdb
+D:\AllProject\githubproject\abstrcatclassadvance\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\AllProject\githubproject\abstrcatclassadvance\obj\x86\Debug\abstrcatclassadvance.exe
+D:\AllProject\githubproject\abstrcatclassadvance\obj\x86\Debug\abstrcatclassadvance.pdb

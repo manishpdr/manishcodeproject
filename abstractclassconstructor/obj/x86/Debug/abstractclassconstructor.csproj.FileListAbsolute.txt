@@ -7,3 +7,8 @@ C:\Users\sony-vaio\myproject\arrayadvance\abstractclassconstructor\obj\x86\Debug
 C:\Users\sony-vaio\myproject\arrayadvance\abstractclassconstructor\obj\x86\Debug\abstractclassconstructor.pdb
 D:\arrayadvance\abstractclassconstructor\obj\x86\Debug\abstractclassconstructor.exe
 D:\arrayadvance\abstractclassconstructor\obj\x86\Debug\abstractclassconstructor.pdb
+D:\AllProject\githubproject\abstractclassconstructor\bin\Debug\abstractclassconstructor.exe
+D:\AllProject\githubproject\abstractclassconstructor\bin\Debug\abstractclassconstructor.pdb
+D:\AllProject\githubproject\abstractclassconstructor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\AllProject\githubproject\abstractclassconstructor\obj\x86\Debug\abstractclassconstructor.exe
+D:\AllProject\githubproject\abstractclassconstructor\obj\x86\Debug\abstractclassconstructor.pdb

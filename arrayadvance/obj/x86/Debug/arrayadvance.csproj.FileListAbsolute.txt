@@ -5,3 +5,6 @@ D:\visualstudioprogram\awarebase directory\arrayadvance\arrayadvance\obj\x86\Deb
 D:\visualstudioprogram\awarebase directory\arrayadvance\arrayadvance\obj\x86\Debug\arrayadvance.pdb
 D:\AllProject\githubproject\arrayadvance\obj\x86\Debug\arrayadvance.exe
 D:\AllProject\githubproject\arrayadvance\obj\x86\Debug\arrayadvance.pdb
+D:\AllProject\githubproject\arrayadvance\bin\Debug\arrayadvance.exe
+D:\AllProject\githubproject\arrayadvance\bin\Debug\arrayadvance.pdb
+D:\AllProject\githubproject\arrayadvance\obj\x86\Debug\ResolveAssemblyReference.cache

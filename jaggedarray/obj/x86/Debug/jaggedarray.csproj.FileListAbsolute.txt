@@ -3,3 +3,8 @@ D:\visualstudioprogram\awarebase directory\arrayadvance\jaggedarray\bin\Debug\ja
 D:\visualstudioprogram\awarebase directory\arrayadvance\jaggedarray\obj\x86\Debug\ResolveAssemblyReference.cache
 D:\visualstudioprogram\awarebase directory\arrayadvance\jaggedarray\obj\x86\Debug\jaggedarray.exe
 D:\visualstudioprogram\awarebase directory\arrayadvance\jaggedarray\obj\x86\Debug\jaggedarray.pdb
+D:\AllProject\githubproject\jaggedarray\bin\Debug\jaggedarray.exe
+D:\AllProject\githubproject\jaggedarray\bin\Debug\jaggedarray.pdb
+D:\AllProject\githubproject\jaggedarray\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\AllProject\githubproject\jaggedarray\obj\x86\Debug\jaggedarray.exe
+D:\AllProject\githubproject\jaggedarray\obj\x86\Debug\jaggedarray.pdb
